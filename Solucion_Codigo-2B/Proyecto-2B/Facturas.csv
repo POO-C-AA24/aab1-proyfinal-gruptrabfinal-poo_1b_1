@@ -1,0 +1,137 @@
+Calculo de Impuestos
+
+Sueldo Mensual:
+Mes: Sueldo
+Enero: 1739,10
+Febrero: 1422,38
+Marzo: 1388,04
+Abril: 1418,06
+Mayo: 1347,15
+Junio: 1707,90
+Julio: 1903,39
+Agosto: 1802,68
+Septiembre: 957,04
+Octubre: 1407,15
+Noviembre: 1442,36
+Diciembre: 1283,07
+Total Anual: 17818,32
+
+Facturas:
+
+----------------------Facturas de Enero----------------------
+Alimentacion: 29.88588197153581, Deduccion: 11.954352788614324
+Vestimenta: 11.040680920189143, Deduccion: 1.1040680920189143
+Vivienda: 11.98996432091052, Deduccion: 2.397992864182104
+Vestimenta: 37.080047401044055, Deduccion: 3.7080047401044056
+Vestimenta: 21.203248554141965, Deduccion: 2.1203248554141965
+Salud: 13.072746754807039, Deduccion: 5.2290987019228155
+Vestimenta: 24.91361363005915, Deduccion: 2.491361363005915
+Alimentacion: 31.104770046488095, Deduccion: 12.441908018595239
+Educacion: 17.657297169121424, Deduccion: 6.1800540091924985
+Alimentacion: 18.595347203476187, Deduccion: 7.438138881390476
+Total Facturas: 216.54359797177338
+
+----------------------Facturas de Febrero----------------------
+Alimentacion: 29.342787557163977, Deduccion: 11.737115022865591
+Vestimenta: 16.10220994603886, Deduccion: 1.6102209946038863
+Vivienda: 32.56066102208341, Deduccion: 6.512132204416682
+Alimentacion: 32.106121048247786, Deduccion: 12.842448419299116
+Alimentacion: 22.396163618927602, Deduccion: 8.958465447571042
+Salud: 20.546253884097414, Deduccion: 8.218501553638966
+Vivienda: 22.37408758905134, Deduccion: 4.474817517810268
+Educacion: 11.010654440955363, Deduccion: 3.853729054334377
+Total Facturas: 186.43893910656575
+
+----------------------Facturas de Marzo----------------------
+Vivienda: 40.186891405699484, Deduccion: 8.037378281139897
+Salud: 34.64462012953301, Deduccion: 13.857848051813205
+Salud: 38.034208175310596, Deduccion: 15.213683270124239
+Total Facturas: 112.86571971054309
+
+----------------------Facturas de Abril----------------------
+Vivienda: 25.42140783651584, Deduccion: 5.084281567303169
+Turismo: 16.616070574912815, Deduccion: 1.6616070574912816
+Vestimenta: 14.06072224912106, Deduccion: 1.406072224912106
+Alimentacion: 38.19734311800704, Deduccion: 15.278937247202817
+Vivienda: 23.152230418646468, Deduccion: 4.630446083729294
+Total Facturas: 117.44777419720322
+
+----------------------Facturas de Mayo----------------------
+Turismo: 21.183077005268974, Deduccion: 2.1183077005268975
+Vestimenta: 34.63908283485945, Deduccion: 3.4639082834859454
+Alimentacion: 10.077245693223272, Deduccion: 4.030898277289309
+Vestimenta: 18.13199553580139, Deduccion: 1.813199553580139
+Vivienda: 30.742617828456044, Deduccion: 6.148523565691209
+Salud: 32.230642177626734, Deduccion: 12.892256871050694
+Vestimenta: 13.763350567972246, Deduccion: 1.3763350567972248
+Turismo: 10.202505467101062, Deduccion: 1.0202505467101062
+Total Facturas: 170.97051711030917
+
+----------------------Facturas de Junio----------------------
+Alimentacion: 26.780935817327506, Deduccion: 10.712374326931004
+Vivienda: 40.7492953743856, Deduccion: 8.14985907487712
+Educacion: 29.34593288689524, Deduccion: 10.271076510413334
+Educacion: 32.75882169863877, Deduccion: 11.46558759452357
+Salud: 15.429259520464868, Deduccion: 6.171703808185947
+Total Facturas: 145.06424529771198
+
+----------------------Facturas de Julio----------------------
+Vivienda: 12.87369332055314, Deduccion: 2.5747386641106282
+Alimentacion: 10.76330464901108, Deduccion: 4.305321859604432
+Vestimenta: 32.942190198598745, Deduccion: 3.2942190198598746
+Total Facturas: 56.579188168162965
+
+----------------------Facturas de Agosto----------------------
+Vivienda: 18.932978533551154, Deduccion: 3.786595706710231
+Vivienda: 9.758648175724868, Deduccion: 1.9517296351449738
+Alimentacion: 16.881645361328307, Deduccion: 6.752658144531323
+Turismo: 38.370144406104636, Deduccion: 3.8370144406104636
+Vestimenta: 32.31627150681621, Deduccion: 3.231627150681621
+Vivienda: 24.028145856691314, Deduccion: 4.805629171338263
+Total Facturas: 140.28783384021648
+
+----------------------Facturas de Septiembre----------------------
+Educacion: 38.93520718505825, Deduccion: 13.627322514770388
+Turismo: 21.91557981533225, Deduccion: 2.1915579815332253
+Vestimenta: 14.89860726355754, Deduccion: 1.4898607263557542
+Alimentacion: 19.931032391289282, Deduccion: 7.972412956515713
+Alimentacion: 35.4517254431241, Deduccion: 14.18069017724964
+Turismo: 35.31604488197357, Deduccion: 3.531604488197357
+Alimentacion: 29.71431838675461, Deduccion: 11.885727354701844
+Total Facturas: 196.16251536708958
+
+----------------------Facturas de Octubre----------------------
+Alimentacion: 24.98526450812816, Deduccion: 9.994105803251266
+Salud: 40.19820585630656, Deduccion: 16.079282342522625
+Alimentacion: 23.203861943440916, Deduccion: 9.281544777376366
+Total Facturas: 88.38733230787564
+
+----------------------Facturas de Noviembre----------------------
+Vestimenta: 11.512783888708448, Deduccion: 1.1512783888708449
+Educacion: 17.748934078644762, Deduccion: 6.2121269275256665
+Vestimenta: 29.70570347129627, Deduccion: 2.970570347129627
+Salud: 13.568276237179575, Deduccion: 5.42731049487183
+Turismo: 39.51540195660808, Deduccion: 3.951540195660808
+Vivienda: 21.225021215842922, Deduccion: 4.245004243168585
+Total Facturas: 133.27612084828007
+
+----------------------Facturas de Diciembre----------------------
+Educacion: 36.407767177463285, Deduccion: 12.742718512112148
+Vestimenta: 35.052957822754735, Deduccion: 3.5052957822754736
+Salud: 17.167883242261173, Deduccion: 6.867153296904469
+Educacion: 19.09070521735587, Deduccion: 6.681746826074553
+Total Facturas: 107.71931345983506
+
+Gastos por Categoria:
+Vivienda: 314,00
+Educacion: 202,96
+Alimentacion: 399,42
+Vestimenta: 347,36
+Salud: 224,89
+Turismo: 183,12
+Total Anual: 436,61
+
+---------Calculo de Impuestos-----------
+Total Ingresos: 17818,32
+Total Deducciones: 436,61
+Impuesto a Pagar: 1901,17
